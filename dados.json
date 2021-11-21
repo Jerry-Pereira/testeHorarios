@@ -1,0 +1,54 @@
+{
+  "segunda": [
+    {
+      "Instituicao": "IFAM",
+      "IniTer": "14:00 - 16:00",
+      "Materia": "portugues",
+      "Turma": "asd",
+      "id": 2
+    }
+  ],
+  "terca": [
+    {
+      "id": 1,
+      "Instituicao": "Ufam",
+      "IniTer": "8:00-10:00",
+      "Materia": "direito",
+      "Turma": "8bc"
+    }
+  ],
+  "quarta": [
+    {
+      "id": 1,
+      "Instituicao": "UEA",
+      "IniTer": "8:00-10:00",
+      "Materia": "direito",
+      "Turma": "8bd"
+    }
+  ],
+  "quinta": [
+    {
+      "id": 1,
+      "Instituicao": "uninorte",
+      "IniTer": "8:00-10:00",
+      "Materia": "direito",
+      "Turma": "8be"
+    }
+  ],
+  "sexta": [
+    {
+      "id": 1,
+      "Instituicao": "fametro",
+      "IniTer": "8:00-10:00",
+      "Materia": "direito",
+      "Turma": "8bf"
+    }
+  ],
+  "perfil": [
+    {
+      "Nome": "jerry",
+      "Idade": "22",
+      "id": 1
+    }
+  ]
+}
